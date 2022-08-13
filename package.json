@@ -29,7 +29,7 @@
     "grpcc": "^1.1.1",
     "logrocket": "^3.0.1",
     "logrocket-ngrx": "^0.1.1",
-    "moment": "2.26.0",
+    "moment": "2.29.4",
     "redux": "^4.2.0",
     "rxjs": "6.5.5",
     "tslib": "^1.13.0",
